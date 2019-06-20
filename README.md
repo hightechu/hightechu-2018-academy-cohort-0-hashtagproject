@@ -1,29 +1,36 @@
-# hashtag-project
+# Hashtag Project
 
-This is the repo for project work.
-Please list changes made for others to see!
+**2018 HighTechU Academy - Cohort 0** 
 
-This is the live project:
+## Website
 
 https://hashtag-project-fc7fc.firebaseapp.com/Login.html
 
-5/11/18 by iota:
-- cleaned up main.js
-  - resolved localStorage trouble
-  - solved duplicate posts bug
+## Promo
 
-5/11/18 by beta:
-- resolved #codes bugs
-- started creating working like() function
-- modified post() and updatePost() functions on main.js
+![Promo of Website](promo.png)
 
-5/10/18 by iota
-- usernames working
-- resolved buggy comments
+![Promo of Website](promo-1.png)
 
-5/8/18 additions by iota
-- codes now working
-- posts displaying correctly
+![Promo of Website](promo-2.png)
 
-Still to do:
-- connect likes and comments to database
+![Promo of Website](promo-3.png)
+
+![Promo of Website](promo-4.png)
+
+![Promo of Website](promo-5.png)
+
+![Promo of Website](promo-6.png)
+
+## Made with:
+
+* HTML
+* CSS
+* JS
+* Firebase
+
+## Made by:
+
+* Alex
+* Jennifer
+* Kiara
