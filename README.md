@@ -8,19 +8,19 @@ https://hashtag-project-fc7fc.firebaseapp.com/Login.html
 
 ## Promo
 
-![Promo of Website](promo.png)
+![Promo of Website](img/promo.png)
 
-![Promo of Website](promo-1.png)
+![Promo of Website](img/promo-1.png)
 
-![Promo of Website](promo-2.png)
+![Promo of Website](img/promo-2.png)
 
-![Promo of Website](promo-3.png)
+![Promo of Website](img/promo-3.png)
 
-![Promo of Website](promo-4.png)
+![Promo of Website](img/promo-4.png)
 
-![Promo of Website](promo-5.png)
+![Promo of Website](img/promo-5.png)
 
-![Promo of Website](promo-6.png)
+![Promo of Website](img/promo-6.png)
 
 ## Made with:
 
